@@ -23,3 +23,16 @@
 8. `Q8.cpp`: Write a program to print a simple full pyramid pattern.
 9. `Q9.cpp`: Write a program to print Pascal's triangle.
 10. `Q10.cpp`: Write a program for binary to decimal and decimal to binary using separate functions.
+
+## Lab - 3
+1. `Q1.cpp`: Write a program to implement default arguments in functions.
+2. `Q2.cpp`: Write a program to implement macros.
+3. `Q3.cpp`: Write a program to implement inline functions.
+4. `Q4.cpp`: Write a program to implement function overloading.
+5. `Q5.cpp`: Write a program to show the scope of variables.
+6. `Q6.cpp`: Write a program to implement external variables.
+7. `Q7.cpp`: Write a program to implement member functions of the class and use the scope resolution operator for function definitions.
+8. `Q8.cpp`: Write a program to implement an array of objects.
+9. `Q9.cpp`: Write a program to implement nesting of member functions.
+10. `Q10.cpp`: Write a program to implement objects as function arguments.
+11. `global_variables.cpp`: External veriable for Q6.cpp
