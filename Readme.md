@@ -36,3 +36,18 @@
 9. `Q9.cpp`: Write a program to implement nesting of member functions.
 10. `Q10.cpp`: Write a program to implement objects as function arguments.
 11. `global_variables.cpp`: External veriable for Q6.cpp
+
+## Lab - 4
+1. `Q1.cpp`: Write a program to count the number of function calls using static data members.
+2. `Q2.cpp`: Write a program to implement nested classes.
+3. `Q3.cpp`: Write a program to implement friend functions.
+4. `Q4.cpp`: Write a program to implement friend class.
+5. `Q5.cpp`: Write a program to implement this pointer.
+6. `Q6.cpp`: Write a program to implement constructor and destructor.
+7. `Q7.cpp`: Write a program to implement constructor overloading.
+8. `Q8.cpp`: Write a program to implement an overloading of insertion and extraction operators.
+9. `Q9.cpp`: Write a program to implement an overloading + operator to concatenate two strings.
+10. `Q10.cpp`: Write a program to implement 
+                a. Basic type to user defined type 
+                b. User defined type to basic type 
+                c. user defined type to defined type
